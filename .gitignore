@@ -28,5 +28,9 @@ $RECYCLE.BIN/
 *.lnk
 
 *.env
+__pycache__/
+venv/
+.venv/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
